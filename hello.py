@@ -1,2 +1,1 @@
-
-yhis is a new line.
+print "this is a hello.py.""
